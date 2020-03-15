@@ -1,0 +1,10 @@
+.spa {
+  height: 100%;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  height: 100%;
+  margin-bottom: 102px;
+}

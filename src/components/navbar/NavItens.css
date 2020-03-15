@@ -1,0 +1,25 @@
+.nav-item {
+    display: flex;
+    align-items: center;
+    height: 40px;
+    width: 100%;
+}
+
+.nav-item h5 {
+    color: #aaa;
+    margin: 0px 0px 0px 40px;
+    font-size: 15px;
+}
+
+.nav-item:hover {
+    cursor: pointer;
+    background-color: #111;
+}
+
+.nav-item:active {
+    background-color: #222;
+}
+
+.links {
+    text-decoration: none;
+}

@@ -1,0 +1,17 @@
+.like-songs {
+    height: 220px;
+    width: 340px;
+    padding: 20px 20px 16px;
+    background: linear-gradient(149.46deg,#450af5,#8e8ee5 99.16%);
+    border-radius: 8px;
+    margin: 10px 0px;
+}
+
+.like-songs h3 {
+    font-size: 28px;
+    margin: 0px;
+}
+
+.like-songs:hover {
+    cursor: pointer;
+}

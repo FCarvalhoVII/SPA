@@ -1,0 +1,24 @@
+.logo {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    height: 80px;
+    width: 100%;
+    margin-left: 30px;
+}
+
+.logo h1 {
+    color: #ddd;
+    font-weight: bold;
+    margin: 10px;
+    font-size: 27px;
+}
+
+.img {
+    width: 60px;
+}
+
+.img img {
+    width: 100%;
+}
